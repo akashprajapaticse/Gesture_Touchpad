@@ -1,6 +1,3 @@
-### **Updated README.md** for Gesture-Based Touchpad
-
-```markdown
 # ✋🖱️ Gesture-Based Touchpad
 
 This project is a **gesture-based touchpad** implemented using **Python**, **OpenCV**, **MediaPipe**, and **PyAutoGUI**. It allows users to control the mouse pointer and perform left-click, right-click, and scrolling using hand gestures captured through a webcam.
